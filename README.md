@@ -1,6 +1,3 @@
-
-# Cybersecurity & IT Professional
-
 # Hi there, I'm Will! 👋
 
 I'm a Cybersecurity and Information Assurance graduate from Western Governors University with a strong interest in IT infrastructure, cybersecurity, and security operations.
